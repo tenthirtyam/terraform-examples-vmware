@@ -6,7 +6,7 @@ terraform {
   required_providers {
     nsxt = {
       source  = "vmware/nsxt"
-      version = "3.9.0"
+      version = "3.10.0"
     }
   }
   required_version = ">= 1.0.0"
